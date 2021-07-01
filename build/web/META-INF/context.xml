@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/J3.L.P0016">
+<!--<Resource name="DB"
+          auth="Container"
+          type="javax.sql.DataSource"
+          driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+          url="jdbc:sqlserver://localhost:1433;databaseName=LabWeb1"
+          username="sa"
+          password="152" />-->
+
+
+<Resource name="DB"
+          auth="Container"
+          type="javax.sql.DataSource"
+          driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+          url="jdbc:sqlserver://quochuy.cbhgpztoypa6.ap-northeast-1.rds.amazonaws.com:1433;databaseName=LabWeb1"
+          username="voquochuy150200"
+          password="MMartialembLEM1502091921" />
+</Context>
+          
