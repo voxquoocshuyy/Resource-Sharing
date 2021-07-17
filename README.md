@@ -15,8 +15,8 @@ CSS
 ### Implemented technology
 Java JDK15 <br>
 Bootstrap 4 <br>
-Login with google API
-Java Mail API
+Login with google API <br>
+Java Mail API <br>
 Store database on Amazon web service
 ### Connect me via:
 [My facebook](https://facebook.com/voxquoocshuyy)  
