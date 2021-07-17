@@ -17,6 +17,7 @@ Java JDK15 <br>
 Bootstrap 4 <br>
 Login with google API
 Java Mail API
+Store database on Amazon web service
 ### Connect me via:
 [My facebook](https://facebook.com/voxquoocshuyy)  
 [My email](gmailto: voquochuy1502@gmail.com)<br>
